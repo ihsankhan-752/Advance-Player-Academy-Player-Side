@@ -1,0 +1,18 @@
+List<String> mainCategoriesList = [
+  "Strength Training",
+  "Cardiovascular Exercise",
+  "High-Intensity Interval Training (HIIT)",
+  "BodyWeight Training",
+  "CrossFit",
+  "Powerlifting",
+  "Bodybuilding",
+  "Functional Training",
+  "Flexibility and Mobility Training",
+  "Core Strengthening",
+  "Circuit Training",
+  "Rehabilitation and Injury Prevention",
+  "Group Fitness Classes",
+  "Mind-Body Workouts",
+  "Sport-Specific Training",
+  "Nutrition and Weight Management",
+];
